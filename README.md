@@ -1,4 +1,5 @@
-## Hi there 👋
+# Привет 👋 Я Виктория!
+
 
 <!--
 **noizzer28/noizzer28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Я ищу работу Frontend разработчиком в Москве или удаленно
+- 💼 Мое резюме: [HH.ru](https://hh.ru/applicant/resumes/view?resume=ce2737cfff0ceacc2d0039ed1f4c4b434f7556&customDomain=1)
+- ⚡ Ознакомьтесь с моими проектами на GitHub
+  
+
+
